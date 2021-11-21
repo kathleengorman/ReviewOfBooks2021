@@ -1,4 +1,4 @@
-# BooksOfThe2021
+# Review of Books 2021
 Building a 'tribute page' for FreeCodeCamp's Responsive Web Design certification.
 
 Must fulfill the following user stories:
